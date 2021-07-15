@@ -23,6 +23,7 @@
     top: 239px;
     /* background: url(http://i.imgur.com/GaV5RBy.png); */
     /* background-position: -152px 0px; */
+    display: none;
     -webkit-clip-path: 50%;
 }
 .custom .trigger{
