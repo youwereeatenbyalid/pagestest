@@ -16,8 +16,8 @@
     display: none;
 }
 .custom .triggers{
-    width: 500px;
-    height: 500px;
+    width: 1400px;
+    height: 1000px;
     position: absolute;
     left: 0px;
     top: 0px;
@@ -43,15 +43,15 @@
     top: 0px;
 }
 .custom .bumper{
-    width: 500px;
-    height: 500px;
+    width: 1400px;
+    height: 1000px;
     background: url(https://yublog.students.yorku.ca/wp-content/uploads/2015/12/FBLKnXu-1024x710.jpg);
     opacity: 0;
 }
 .custom .bumpers{
     position: absolute;
-    width: 500px;
-    height: 500px;
+    width: 1400px;
+    height: 1000px;
     left: 0px;
     top: 0px;
     /*display: none;*/
@@ -120,8 +120,8 @@
 }
 .custom .abxy{
     position: absolute;
-    width: 500px;
-    height: 500px;
+    width: 1400px;
+    height: 1000px;
     top: 0px;
     left: 0px;
     /*background: url(http://i.imgur.com/tE4M2o4.png);*/
@@ -130,8 +130,8 @@
 .custom .button{
     position: absolute;
     background: url(https://yublog.students.yorku.ca/wp-content/uploads/2015/12/FBLKnXu-1024x710.jpg);
-    width: 500px;
-    height: 500px;
+    width: 1400px;
+    height: 1000px;
     opacity: 0
 }
 .custom .button.pressed{
@@ -180,8 +180,8 @@
 }
 .custom .dpad{
     position: absolute;
-    width: 500px;
-    height: 500px;
+    width: 1400px;
+    height: 1000px;
     top:0px;
     left:0px;
     /*display: none;*/
@@ -189,8 +189,8 @@
 .custom .face{
     background: url(https://yublog.students.yorku.ca/wp-content/uploads/2015/12/FBLKnXu-1024x710.jpg);
     position: absolute;
-    width: 500px;
-    height: 500px;
+    width: 1400px;
+    height: 1000px;
     opacity: 0;
 }
 .custom .face.pressed{
