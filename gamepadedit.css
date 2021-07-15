@@ -23,13 +23,13 @@
     top: 239px;
     /* background: url(http://i.imgur.com/GaV5RBy.png); */
     /* background-position: -152px 0px; */
-    display: none;
+    /*display: none;*/
     -webkit-clip-path: 50%;
 }
 .custom .trigger{
     width: 88px;
     height: 121px;
-    background: url(https://sgaconnections.com/wp-content/uploads/2018/09/s-l1000.jpg);
+    background: url(https://yublog.students.yorku.ca/wp-content/uploads/2015/12/FBLKnXu-1024x710.jpg);
     opacity: 1;
 }
 .custom .trigger.left{
