@@ -29,8 +29,8 @@
 .custom .trigger{
     width: 88px;
     height: 121px;
-    /*background: url(http://mrmcpowned.com/gamepad/xbox-assets/trigger.svgz);*/
-    opacity: 0;
+    background: url(https://yublog.students.yorku.ca/wp-content/uploads/2015/12/FBLKnXu-1024x710.jpg);
+    opacity: 1;
 }
 .custom .trigger.left{
     float: left;
