@@ -27,20 +27,19 @@
     -webkit-clip-path: 50%;
 }
 .custom .trigger{
-    width: 500px;
+    width: 250px;
     height: 500px;
     background: url(https://yublog.students.yorku.ca/wp-content/uploads/2015/12/FBLKnXu-1024x710.jpg);
     opacity: 1;
 }
 .custom .trigger.left{
     float: left;
-    background-position:0 0;
 }
 .custom .trigger.right{
-    float: left;
+    float: right;
 }
 .custom .bumper{
-    width: 500px;
+    width: 250px;
     height: 500px;
     background: url(https://yublog.students.yorku.ca/wp-content/uploads/2015/12/FBLKnXu-1024x710.jpg);
     opacity: 0;
@@ -113,43 +112,32 @@
 }
 .custom .abxy{
     position: absolute;
-    width: 157px;
-    height: 164px;
-    top: 231px;
-    left: 388px;
+    width: 500px;
+    height: 500px;
+    top: 0px;
+    left: 0px;
     /*background: url(http://i.imgur.com/tE4M2o4.png);*/
     /* background-size: contain; */
 }
 .custom .button{
     position: absolute;
-    background: url(http://mrmcpowned.com/gamepad/xbox-assets/abxy.svgz);
-    width: 48px;
-    height: 48px;
+    background: url(https://yublog.students.yorku.ca/wp-content/uploads/2015/12/FBLKnXu-1024x710.jpg);
+    width: 500px;
+    height: 500px;
+    opacity: 0
 }
 .custom .button.pressed{
-    background-position-y: -48px;
     margin-top: 5px;
     opacity: 1;
 }
 .custom .a{
     background-position: 0 0;
-    top: 108px;
-    left: 55px;
 }
 .custom .b{
-    background-position: -49px 0;
-    top: 57px;
-    right: 3px;
 }
 .custom .x{
-    background-position: -98px 0;
-    top: 57px;
-    left: 4px;
 }
 .custom .y{
-    background-position: 48px 0;
-    left: 55px;
-    top: 5px;
 }
 .custom .sticks{
     position: absolute;
@@ -161,6 +149,7 @@
     background-position: -117px -214px;
     -webkit-clip-path: circle(50% at center);
     clip-path: circle(50% at center);
+    display: none;
 }
 .custom .stick{
     position: absolute;
@@ -183,46 +172,29 @@
 }
 .custom .dpad{
     position: absolute;
-    width: 110px;
-    height: 111px;
-    top: 345px;
-    left: 223px;
+    width: 500px;
+    height: 500px;
+    top:0px;
+    left:0px;
     /*display: none;*/
 }
 .custom .face{
-    background: url(http://mrmcpowned.com/gamepad/xbox-assets/dpad.svgz);
+    background: url(https://yublog.students.yorku.ca/wp-content/uploads/2015/12/FBLKnXu-1024x710.jpg);
     position: absolute;
+    width: 500px;
+    height: 500px;
     opacity: 0;
 }
 .custom .face.pressed{
     opacity: 1;
 }
 .custom .face.up{
-    background-position: 34px 0;
-    left: 38px;
-    top: 0px;
-    width: 34px;
-    height: 56px;
 }
 .custom .face.down{
-    left: 38px;
-    bottom: 0;
-    width: 34px;
-    height: 56px;
 }
 .custom .face.left{
-    background-position: 0 -93px;
-    width: 55px;
-    height: 35px;
-    top: 38px;
-    left: 0;
 }
 .custom .face.right{
-    background-position: 0 -57px;
-    width: 55px;
-    height: 35px;
-    top: 38px;
-    right: 0;
 }
 .custom.half{
     margin-top: -315px;
