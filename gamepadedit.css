@@ -29,7 +29,7 @@
 .custom .trigger{
     width: 88px;
     height: 121px;
-    background: url(http://mrmcpowned.com/gamepad/xbox-assets/trigger.svgz);
+    /*background: url(http://mrmcpowned.com/gamepad/xbox-assets/trigger.svgz);*/
     opacity: 0;
 }
 .custom .trigger.left{
@@ -182,7 +182,7 @@
 .custom .stick.right{
     top: 113px;
     left: 288px;
-    display: none;
+    /*display: none;*/
 }
 .custom .dpad{
     position: absolute;
@@ -190,7 +190,7 @@
     height: 111px;
     top: 345px;
     left: 223px;
-    display: none;
+    /*display: none;*/
 }
 .custom .face{
     background: url(http://mrmcpowned.com/gamepad/xbox-assets/dpad.svgz);
